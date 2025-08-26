@@ -1,0 +1,1726 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"path" : "pico_sdk_import.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/pico_sdk_init.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/pico_sdk_version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/pico_utils.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/pico_pre_load_platform.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/generic_board.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/preload/platforms/rp2350-arm-s.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/pico_pre_load_toolchain.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/external/pico_extras_import.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/CMakeFiles/4.1.0/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/preload/toolchains/pico_arm_cortex_m33_gcc.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/preload/toolchains/util/pico_arm_gcc_common.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/preload/toolchains/util/find_compiler.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/preload/toolchains/util/set_flags.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/CMakeFiles/4.1.0/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/CMakeFiles/4.1.0/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/Platform/PICO.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/Platform/PICO.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/Platform/PICO.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/pico_sdk_import.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/pico_sdk_init.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/CMakeFiles/4.1.0/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/preload/toolchains/pico_arm_cortex_m33_gcc.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/preload/toolchains/util/pico_arm_gcc_common.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/preload/toolchains/util/find_compiler.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/preload/toolchains/util/set_flags.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/CMakeFiles/4.1.0/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/CMakeFiles/4.1.0/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/Platform/PICO.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/Platform/PICO.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/cmake/Platform/PICO.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/pico_sdk_init.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/CMakeFiles/4.1.0/CMakeASMCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeASMInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-ASM.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeASMLinkerInformation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/post_init.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/common/pico_base_headers/generate_config_header.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/common/pico_base_headers/include/pico/version.h.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/tools/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2350-arm-s.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/cmake/rp2_common.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/cmake/on_device.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/dreq.h"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2350/hardware_regs/include/hardware/regs/intctrl.h"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/common/boot_picobin_headers/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/common/boot_picoboot_headers/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/common/boot_uf2_headers/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/common/pico_base_headers/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/common/pico_usb_reset_interface_headers/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/common/pico_bit_ops_headers/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/common/pico_binary_info/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/common/pico_divider_headers/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/common/pico_sync/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/common/pico_time/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/common/pico_util/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/common/pico_stdlib_headers/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/common/hardware_claim/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2350/pico_platform/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2350/hardware_regs/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2350/hardware_structs/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2350/boot_stage2/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-release.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FindPython3.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FindPython/Support.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_base/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_adc/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_boot_lock/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_clocks/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_divider/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_dma/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_exception/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_flash/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_gpio/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_i2c/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_interp/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_irq/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_pio/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_pll/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_pwm/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_resets/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_spi/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_sync/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_sync_spin_lock/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_ticks/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_timer/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_uart/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_vreg/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_watchdog/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_xip_cache/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_xosc/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_powman/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_riscv_platform_timer/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_sha256/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_dcp/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/hardware_rcp/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/boot_bootrom_headers/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_platform_common/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_platform_compiler/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_platform_sections/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_platform_panic/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_aon_timer/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_bootrom/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_bootsel_via_double_reset/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_multicore/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_unique_id/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_atomic/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_bit_ops/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_divider/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_double/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_int64_ops/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_flash/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_float/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_mem_ops/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_malloc/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_printf/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_rand/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_sha256/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_stdio_semihosting/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_stdio_uart/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_stdio_rtt/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/cmsis/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/tinyusb/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/lib/tinyusb/hw/bsp/family_support.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakePrintHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/lib/tinyusb/hw/bsp/rp2040/family.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/lib/tinyusb/hw/bsp/rp2040/boards/pico_sdk/board.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/lib/tinyusb/hw/bsp/rp2040/pico_sdk_import.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/pico_sdk_init.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_stdio_usb/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_i2c_slave/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_async_context/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_btstack/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_mbedtls/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_lwip/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_lwip/tools/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_cyw43_arch/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_time_adapter/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_crt0/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_clib_interface/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_cxx_options/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_standard_binary_info/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_standard_link/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_standard_link/pico_flash_region.template.ld"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_fix/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_status_led/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_runtime_init/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_runtime/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_stdio/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/src/rp2_common/pico_stdlib/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/src/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/src/common/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/src/common/pico_audio/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/src/common/pico_scanvideo/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/src/common/pico_sd_card/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/src/common/pico_util_buffer/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/src/common/platypus/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/src/rp2_common/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/src/rp2_common/hardware_rosc/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/src/rp2_common/pico_sleep/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/src/rp2_common/pico_audio_i2s/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/src/rp2_common/pico_audio_pwm/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/src/rp2_common/pico_audio_spdif/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/src/rp2_common/pico_sd_card/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/src/rp2_common/pico_scanvideo_dpi/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/src/rp2_common/usb_common/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/src/rp2_common/usb_device/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-extras/src/rp2_common/usb_device_msc/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/pico/pico-sdk/docs/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FindDoxygen.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "audio/CMakeLists.txt"
+		},
+		{
+			"path" : "audio/sine_wave/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-release.cmake"
+		},
+		{
+			"path" : "apps/CMakeLists.txt"
+		},
+		{
+			"path" : "apps/popcorn/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-release.cmake"
+		},
+		{
+			"path" : "apps/usb_sound_card/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/CMakeFiles/4.1.0/CMakeASMCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeASMInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU-ASM.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeASMLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-release.cmake"
+		},
+		{
+			"path" : "reset/CMakeLists.txt"
+		},
+		{
+			"path" : "reset/hello_reset/CMakeLists.txt"
+		},
+		{
+			"path" : "scanvideo/CMakeLists.txt"
+		},
+		{
+			"path" : "scanvideo/render/CMakeLists.txt"
+		},
+		{
+			"path" : "scanvideo/sprite/CMakeLists.txt"
+		},
+		{
+			"path" : "scanvideo/demo1/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-release.cmake"
+		},
+		{
+			"path" : "scanvideo/demo2/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-release.cmake"
+		},
+		{
+			"path" : "scanvideo/hscroll_dma_tiles/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-release.cmake"
+		},
+		{
+			"path" : "scanvideo/mandelbrot/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-release.cmake"
+		},
+		{
+			"path" : "scanvideo/mario_tiles/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-release.cmake"
+		},
+		{
+			"path" : "scanvideo/scanvideo_minimal/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-release.cmake"
+		},
+		{
+			"path" : "scanvideo/sprite_demo/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-release.cmake"
+		},
+		{
+			"path" : "scanvideo/test_pattern/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-release.cmake"
+		},
+		{
+			"path" : "scanvideo/textmode/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-release.cmake"
+		},
+		{
+			"path" : "sleep/CMakeLists.txt"
+		},
+		{
+			"path" : "sleep/hello_dormant/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-release.cmake"
+		},
+		{
+			"path" : "sleep/hello_sleep/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-release.cmake"
+		},
+		{
+			"path" : "stdio/CMakeLists.txt"
+		},
+		{
+			"path" : "stdio/pio/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-release.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "C:/pico/build-playground/_deps/picotool/picotoolTargets-release.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/pico/build-playground",
+		"source" : "C:/pico/pico-playground"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

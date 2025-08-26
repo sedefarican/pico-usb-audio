@@ -1,0 +1,6 @@
+C:/pico/build-playground/pioasm/CMakeFiles/pioasm.dir
+C:/pico/build-playground/pioasm/CMakeFiles/edit_cache.dir
+C:/pico/build-playground/pioasm/CMakeFiles/rebuild_cache.dir
+C:/pico/build-playground/pioasm/CMakeFiles/list_install_components.dir
+C:/pico/build-playground/pioasm/CMakeFiles/install.dir
+C:/pico/build-playground/pioasm/CMakeFiles/install/local.dir

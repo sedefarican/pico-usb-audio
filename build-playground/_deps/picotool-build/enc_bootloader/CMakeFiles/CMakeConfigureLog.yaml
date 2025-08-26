@@ -1,0 +1,2689 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineSystem.cmake:212 (message)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      The system is: Windows - 10.0.26100 - AMD64
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompiler.cmake:63 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:64 (_cmake_find_compiler)"
+      - "CMakeLists.txt:122 (project)"
+    mode: "program"
+    variable: "CMAKE_C_COMPILER"
+    description: "C compiler"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: false
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "cc"
+      - "gcc"
+      - "cl"
+      - "bcc"
+      - "xlc"
+      - "icx"
+      - "clang"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/"
+      - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/"
+      - "C:/ninja/"
+      - "C:/Program Files/Microsoft/jdk-11.0.16.101-hotspot/bin/"
+      - "C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Users/LENOVO/AppData/Local/MongoDBCompass/MongoDBCompass.exe/"
+      - "C:/Program Files/MongoDB/Server/8.0/bin/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/Docker/Docker/resources/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin/"
+      - "C:/Users/LENOVO/.dotnet/tools/"
+      - "C:/Users/LENOVO/AppData/Local/GitHubDesktop/bin/"
+      - "C:/Users/LENOVO/AppData/Roaming/npm/"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cc.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cc.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cc"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/gcc.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/gcc.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/gcc"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cl.com"
+    found: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cl.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.22621.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\"
+        - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin"
+        - "C:\\ninja"
+        - "C:\\Program Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\MongoDBCompass\\MongoDBCompass.exe"
+        - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\bin"
+        - "C:\\Users\\LENOVO\\.dotnet\\tools"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\GitHubDesktop\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Roaming\\npm"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:462 (find_file)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:122 (project)"
+    mode: "file"
+    variable: "src_in"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "CMakeCCompilerId.c.in"
+    candidate_directories:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/"
+    found: "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCCompilerId.c.in"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.22621.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\"
+        - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin"
+        - "C:\\ninja"
+        - "C:\\Program Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\MongoDBCompass\\MongoDBCompass.exe"
+        - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\bin"
+        - "C:\\Users\\LENOVO\\.dotnet\\tools"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\GitHubDesktop\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Roaming\\npm"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg"
+      ENV{INCLUDE}:
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\ATLMFC\\include"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\ucrt"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\\\include\\10.0.22621.0\\\\um"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\\\include\\10.0.22621.0\\\\shared"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\\\include\\10.0.22621.0\\\\winrt"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\\\include\\10.0.22621.0\\\\cppwinrt"
+        - "C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\include\\um"
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cl.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      x64 için Microsoft (R) C/C++ İyileştirmeli Derleyicisi Sürüm 19.40.33813
+      Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
+      
+      CMakeCCompilerId.c
+      Microsoft (R) Incremental Linker Version 14.40.33813.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCCompilerId.exe 
+      CMakeCCompilerId.obj 
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+      
+      The C compiler identification is MSVC, found in:
+        C:/pico/build-playground/_deps/picotool-build/enc_bootloader/CMakeFiles/4.1.0/CompilerIdC/CMakeCCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:1341 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:250 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Detecting C compiler /showIncludes prefix:
+        main.c
+        Not: eklenen dosya:  C:\\pico\\build-playground\\_deps\\picotool-build\\enc_bootloader\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "Not: eklenen dosya:  "
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:37 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:65 (__resolve_tool_path)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:103 (__resolve_linker_path)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:200 (include)"
+      - "CMakeLists.txt:122 (project)"
+    mode: "program"
+    variable: "_CMAKE_TOOL_WITH_PATH"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "link"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/"
+      - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/"
+      - "C:/ninja/"
+      - "C:/Program Files/Microsoft/jdk-11.0.16.101-hotspot/bin/"
+      - "C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Users/LENOVO/AppData/Local/MongoDBCompass/MongoDBCompass.exe/"
+      - "C:/Program Files/MongoDB/Server/8.0/bin/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/Docker/Docker/resources/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin/"
+      - "C:/Users/LENOVO/.dotnet/tools/"
+      - "C:/Users/LENOVO/AppData/Local/GitHubDesktop/bin/"
+      - "C:/Users/LENOVO/AppData/Roaming/npm/"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/link.com"
+    found: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/link.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.22621.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\"
+        - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin"
+        - "C:\\ninja"
+        - "C:\\Program Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\MongoDBCompass\\MongoDBCompass.exe"
+        - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\bin"
+        - "C:\\Users\\LENOVO\\.dotnet\\tools"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\GitHubDesktop\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Roaming\\npm"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:37 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:65 (__resolve_tool_path)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:104 (__resolve_linker_path)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:200 (include)"
+      - "CMakeLists.txt:122 (project)"
+    mode: "program"
+    variable: "_CMAKE_TOOL_WITH_PATH"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "lld-link"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/"
+      - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/"
+      - "C:/ninja/"
+      - "C:/Program Files/Microsoft/jdk-11.0.16.101-hotspot/bin/"
+      - "C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Users/LENOVO/AppData/Local/MongoDBCompass/MongoDBCompass.exe/"
+      - "C:/Program Files/MongoDB/Server/8.0/bin/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/Docker/Docker/resources/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin/"
+      - "C:/Users/LENOVO/.dotnet/tools/"
+      - "C:/Users/LENOVO/AppData/Local/GitHubDesktop/bin/"
+      - "C:/Users/LENOVO/AppData/Roaming/npm/"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/lld-link"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lld-link.com"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lld-link.exe"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/lld-link"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/lld-link.com"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/lld-link.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/lld-link"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/lld-link.com"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/lld-link.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/lld-link"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lld-link.com"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lld-link.exe"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/lld-link"
+      - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/lld-link.com"
+      - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/lld-link.exe"
+      - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/lld-link"
+      - "C:/ninja/lld-link.com"
+      - "C:/ninja/lld-link.exe"
+      - "C:/ninja/lld-link"
+      - "C:/Program Files/Microsoft/jdk-11.0.16.101-hotspot/bin/lld-link.com"
+      - "C:/Program Files/Microsoft/jdk-11.0.16.101-hotspot/bin/lld-link.exe"
+      - "C:/Program Files/Microsoft/jdk-11.0.16.101-hotspot/bin/lld-link"
+      - "C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler/lld-link.com"
+      - "C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler/lld-link.exe"
+      - "C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler/lld-link"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/lld-link.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/lld-link.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/lld-link"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/lld-link.com"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/lld-link.exe"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/lld-link"
+      - "C:/Windows/System32/lld-link.com"
+      - "C:/Windows/System32/lld-link.exe"
+      - "C:/Windows/System32/lld-link"
+      - "C:/Windows/lld-link.com"
+      - "C:/Windows/lld-link.exe"
+      - "C:/Windows/lld-link"
+      - "C:/Windows/System32/wbem/lld-link.com"
+      - "C:/Windows/System32/wbem/lld-link.exe"
+      - "C:/Windows/System32/wbem/lld-link"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link"
+      - "C:/Windows/System32/OpenSSH/lld-link.com"
+      - "C:/Windows/System32/OpenSSH/lld-link.exe"
+      - "C:/Windows/System32/OpenSSH/lld-link"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lld-link.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lld-link.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lld-link"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/lld-link.com"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/lld-link.exe"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/lld-link"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lld-link.com"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lld-link.exe"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lld-link"
+      - "C:/Program Files/dotnet/lld-link.com"
+      - "C:/Program Files/dotnet/lld-link.exe"
+      - "C:/Program Files/dotnet/lld-link"
+      - "C:/Program Files/nodejs/lld-link.com"
+      - "C:/Program Files/nodejs/lld-link.exe"
+      - "C:/Program Files/nodejs/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/MongoDBCompass/MongoDBCompass.exe/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/MongoDBCompass/MongoDBCompass.exe/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/MongoDBCompass/MongoDBCompass.exe/lld-link"
+      - "C:/Program Files/MongoDB/Server/8.0/bin/lld-link.com"
+      - "C:/Program Files/MongoDB/Server/8.0/bin/lld-link.exe"
+      - "C:/Program Files/MongoDB/Server/8.0/bin/lld-link"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/lld-link.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/lld-link.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/lld-link"
+      - "C:/Program Files/Docker/Docker/resources/bin/lld-link.com"
+      - "C:/Program Files/Docker/Docker/resources/bin/lld-link.exe"
+      - "C:/Program Files/Docker/Docker/resources/bin/lld-link"
+      - "C:/Program Files/Git/cmd/lld-link.com"
+      - "C:/Program Files/Git/cmd/lld-link.exe"
+      - "C:/Program Files/Git/cmd/lld-link"
+      - "C:/Program Files/CMake/bin/lld-link.com"
+      - "C:/Program Files/CMake/bin/lld-link.exe"
+      - "C:/Program Files/CMake/bin/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Launcher/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Launcher/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Launcher/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/Scripts/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/Scripts/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/Scripts/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WindowsApps/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WindowsApps/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WindowsApps/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Microsoft VS Code/bin/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Microsoft VS Code/bin/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Microsoft VS Code/bin/lld-link"
+      - "C:/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin/lld-link.com"
+      - "C:/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin/lld-link.exe"
+      - "C:/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin/lld-link"
+      - "C:/Users/LENOVO/.dotnet/tools/lld-link.com"
+      - "C:/Users/LENOVO/.dotnet/tools/lld-link.exe"
+      - "C:/Users/LENOVO/.dotnet/tools/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/GitHubDesktop/bin/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/GitHubDesktop/bin/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/GitHubDesktop/bin/lld-link"
+      - "C:/Users/LENOVO/AppData/Roaming/npm/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Roaming/npm/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Roaming/npm/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/lld-link"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.22621.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\"
+        - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin"
+        - "C:\\ninja"
+        - "C:\\Program Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\MongoDBCompass\\MongoDBCompass.exe"
+        - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\bin"
+        - "C:\\Users\\LENOVO\\.dotnet\\tools"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\GitHubDesktop\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Roaming\\npm"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:238 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:200 (include)"
+      - "CMakeLists.txt:122 (project)"
+    mode: "program"
+    variable: "CMAKE_LINKER"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "link"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/"
+      - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/"
+      - "C:/ninja/"
+      - "C:/Program Files/Microsoft/jdk-11.0.16.101-hotspot/bin/"
+      - "C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Users/LENOVO/AppData/Local/MongoDBCompass/MongoDBCompass.exe/"
+      - "C:/Program Files/MongoDB/Server/8.0/bin/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/Docker/Docker/resources/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin/"
+      - "C:/Users/LENOVO/.dotnet/tools/"
+      - "C:/Users/LENOVO/AppData/Local/GitHubDesktop/bin/"
+      - "C:/Users/LENOVO/AppData/Roaming/npm/"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/link.com"
+    found: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/link.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.22621.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\"
+        - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin"
+        - "C:\\ninja"
+        - "C:\\Program Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\MongoDBCompass\\MongoDBCompass.exe"
+        - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\bin"
+        - "C:\\Users\\LENOVO\\.dotnet\\tools"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\GitHubDesktop\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Roaming\\npm"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:238 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:200 (include)"
+      - "CMakeLists.txt:122 (project)"
+    mode: "program"
+    variable: "CMAKE_MT"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "mt"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/"
+      - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/"
+      - "C:/ninja/"
+      - "C:/Program Files/Microsoft/jdk-11.0.16.101-hotspot/bin/"
+      - "C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Users/LENOVO/AppData/Local/MongoDBCompass/MongoDBCompass.exe/"
+      - "C:/Program Files/MongoDB/Server/8.0/bin/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/Docker/Docker/resources/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin/"
+      - "C:/Users/LENOVO/.dotnet/tools/"
+      - "C:/Users/LENOVO/AppData/Local/GitHubDesktop/bin/"
+      - "C:/Users/LENOVO/AppData/Roaming/npm/"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/mt.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/mt.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/mt"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/mt.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/mt.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/mt"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/mt.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/mt.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/mt"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/mt.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/mt.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/mt"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/mt.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/mt.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/mt"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/mt.com"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/mt.exe"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/mt"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/mt.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/mt.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/mt"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/mt.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/mt.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/mt"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/mt.com"
+    found: "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/mt.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.22621.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\"
+        - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin"
+        - "C:\\ninja"
+        - "C:\\Program Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\MongoDBCompass\\MongoDBCompass.exe"
+        - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\bin"
+        - "C:\\Users\\LENOVO\\.dotnet\\tools"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\GitHubDesktop\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Roaming\\npm"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:238 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:200 (include)"
+      - "CMakeLists.txt:122 (project)"
+    mode: "program"
+    variable: "CMAKE_AR"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "lib"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/"
+      - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/"
+      - "C:/ninja/"
+      - "C:/Program Files/Microsoft/jdk-11.0.16.101-hotspot/bin/"
+      - "C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Users/LENOVO/AppData/Local/MongoDBCompass/MongoDBCompass.exe/"
+      - "C:/Program Files/MongoDB/Server/8.0/bin/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/Docker/Docker/resources/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin/"
+      - "C:/Users/LENOVO/.dotnet/tools/"
+      - "C:/Users/LENOVO/AppData/Local/GitHubDesktop/bin/"
+      - "C:/Users/LENOVO/AppData/Roaming/npm/"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/lib.com"
+    found: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/lib.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.22621.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\"
+        - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin"
+        - "C:\\ninja"
+        - "C:\\Program Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\MongoDBCompass\\MongoDBCompass.exe"
+        - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\bin"
+        - "C:\\Users\\LENOVO\\.dotnet\\tools"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\GitHubDesktop\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Roaming\\npm"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompiler.cmake:54 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:69 (_cmake_find_compiler)"
+      - "CMakeLists.txt:122 (project)"
+    mode: "program"
+    variable: "CMAKE_CXX_COMPILER"
+    description: "CXX compiler"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "c++"
+      - "g++"
+      - "cl"
+      - "bcc"
+      - "icx"
+      - "clang++"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/c++.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/c++.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/c++"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/g++.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/g++.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/g++"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cl.com"
+    found: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cl.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.22621.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\"
+        - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin"
+        - "C:\\ninja"
+        - "C:\\Program Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\MongoDBCompass\\MongoDBCompass.exe"
+        - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\bin"
+        - "C:\\Users\\LENOVO\\.dotnet\\tools"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\GitHubDesktop\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Roaming\\npm"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:462 (find_file)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:122 (project)"
+    mode: "file"
+    variable: "src_in"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "CMakeCXXCompilerId.cpp.in"
+    candidate_directories:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/"
+    found: "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXCompilerId.cpp.in"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.22621.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\"
+        - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin"
+        - "C:\\ninja"
+        - "C:\\Program Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\MongoDBCompass\\MongoDBCompass.exe"
+        - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\bin"
+        - "C:\\Users\\LENOVO\\.dotnet\\tools"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\GitHubDesktop\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Roaming\\npm"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg"
+      ENV{INCLUDE}:
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\ATLMFC\\include"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\ucrt"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\\\include\\10.0.22621.0\\\\um"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\\\include\\10.0.22621.0\\\\shared"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\\\include\\10.0.22621.0\\\\winrt"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\\\include\\10.0.22621.0\\\\cppwinrt"
+        - "C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\include\\um"
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cl.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      x64 için Microsoft (R) C/C++ İyileştirmeli Derleyicisi Sürüm 19.40.33813
+      Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
+      
+      CMakeCXXCompilerId.cpp
+      Microsoft (R) Incremental Linker Version 14.40.33813.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCXXCompilerId.exe 
+      CMakeCXXCompilerId.obj 
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+      
+      The CXX compiler identification is MSVC, found in:
+        C:/pico/build-playground/_deps/picotool-build/enc_bootloader/CMakeFiles/4.1.0/CompilerIdCXX/CMakeCXXCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:1341 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:250 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        main.c
+        Not: eklenen dosya:  C:\\pico\\build-playground\\_deps\\picotool-build\\enc_bootloader\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "Not: eklenen dosya:  "
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:37 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:65 (__resolve_tool_path)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:104 (__resolve_linker_path)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:122 (project)"
+    mode: "program"
+    variable: "_CMAKE_TOOL_WITH_PATH"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "lld-link"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/"
+      - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/"
+      - "C:/ninja/"
+      - "C:/Program Files/Microsoft/jdk-11.0.16.101-hotspot/bin/"
+      - "C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Users/LENOVO/AppData/Local/MongoDBCompass/MongoDBCompass.exe/"
+      - "C:/Program Files/MongoDB/Server/8.0/bin/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/Docker/Docker/resources/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin/"
+      - "C:/Users/LENOVO/.dotnet/tools/"
+      - "C:/Users/LENOVO/AppData/Local/GitHubDesktop/bin/"
+      - "C:/Users/LENOVO/AppData/Roaming/npm/"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/lld-link"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lld-link.com"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lld-link.exe"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/lld-link"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/lld-link.com"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/lld-link.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/lld-link"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/lld-link.com"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/lld-link.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/lld-link"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lld-link.com"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lld-link.exe"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/lld-link"
+      - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/lld-link.com"
+      - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/lld-link.exe"
+      - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/lld-link"
+      - "C:/ninja/lld-link.com"
+      - "C:/ninja/lld-link.exe"
+      - "C:/ninja/lld-link"
+      - "C:/Program Files/Microsoft/jdk-11.0.16.101-hotspot/bin/lld-link.com"
+      - "C:/Program Files/Microsoft/jdk-11.0.16.101-hotspot/bin/lld-link.exe"
+      - "C:/Program Files/Microsoft/jdk-11.0.16.101-hotspot/bin/lld-link"
+      - "C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler/lld-link.com"
+      - "C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler/lld-link.exe"
+      - "C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler/lld-link"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/lld-link.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/lld-link.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/lld-link"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/lld-link.com"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/lld-link.exe"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/lld-link"
+      - "C:/Windows/System32/lld-link.com"
+      - "C:/Windows/System32/lld-link.exe"
+      - "C:/Windows/System32/lld-link"
+      - "C:/Windows/lld-link.com"
+      - "C:/Windows/lld-link.exe"
+      - "C:/Windows/lld-link"
+      - "C:/Windows/System32/wbem/lld-link.com"
+      - "C:/Windows/System32/wbem/lld-link.exe"
+      - "C:/Windows/System32/wbem/lld-link"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link"
+      - "C:/Windows/System32/OpenSSH/lld-link.com"
+      - "C:/Windows/System32/OpenSSH/lld-link.exe"
+      - "C:/Windows/System32/OpenSSH/lld-link"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lld-link.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lld-link.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lld-link"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/lld-link.com"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/lld-link.exe"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/lld-link"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lld-link.com"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lld-link.exe"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lld-link"
+      - "C:/Program Files/dotnet/lld-link.com"
+      - "C:/Program Files/dotnet/lld-link.exe"
+      - "C:/Program Files/dotnet/lld-link"
+      - "C:/Program Files/nodejs/lld-link.com"
+      - "C:/Program Files/nodejs/lld-link.exe"
+      - "C:/Program Files/nodejs/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/MongoDBCompass/MongoDBCompass.exe/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/MongoDBCompass/MongoDBCompass.exe/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/MongoDBCompass/MongoDBCompass.exe/lld-link"
+      - "C:/Program Files/MongoDB/Server/8.0/bin/lld-link.com"
+      - "C:/Program Files/MongoDB/Server/8.0/bin/lld-link.exe"
+      - "C:/Program Files/MongoDB/Server/8.0/bin/lld-link"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/lld-link.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/lld-link.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/lld-link"
+      - "C:/Program Files/Docker/Docker/resources/bin/lld-link.com"
+      - "C:/Program Files/Docker/Docker/resources/bin/lld-link.exe"
+      - "C:/Program Files/Docker/Docker/resources/bin/lld-link"
+      - "C:/Program Files/Git/cmd/lld-link.com"
+      - "C:/Program Files/Git/cmd/lld-link.exe"
+      - "C:/Program Files/Git/cmd/lld-link"
+      - "C:/Program Files/CMake/bin/lld-link.com"
+      - "C:/Program Files/CMake/bin/lld-link.exe"
+      - "C:/Program Files/CMake/bin/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Launcher/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Launcher/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Launcher/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/Scripts/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/Scripts/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/Scripts/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WindowsApps/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WindowsApps/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WindowsApps/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Microsoft VS Code/bin/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Microsoft VS Code/bin/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Microsoft VS Code/bin/lld-link"
+      - "C:/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin/lld-link.com"
+      - "C:/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin/lld-link.exe"
+      - "C:/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin/lld-link"
+      - "C:/Users/LENOVO/.dotnet/tools/lld-link.com"
+      - "C:/Users/LENOVO/.dotnet/tools/lld-link.exe"
+      - "C:/Users/LENOVO/.dotnet/tools/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/GitHubDesktop/bin/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/GitHubDesktop/bin/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/GitHubDesktop/bin/lld-link"
+      - "C:/Users/LENOVO/AppData/Roaming/npm/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Roaming/npm/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Roaming/npm/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/lld-link"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.22621.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\"
+        - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin"
+        - "C:\\ninja"
+        - "C:\\Program Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\MongoDBCompass\\MongoDBCompass.exe"
+        - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\bin"
+        - "C:\\Users\\LENOVO\\.dotnet\\tools"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\GitHubDesktop\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Roaming\\npm"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompiler.cmake:54 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineASMCompiler.cmake:61 (_cmake_find_compiler)"
+      - "CMakeLists.txt:122 (project)"
+    mode: "program"
+    variable: "CMAKE_ASM_COMPILER"
+    description: "ASM compiler"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cl.exe"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cl.exe.com"
+    found: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cl.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.22621.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\"
+        - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin"
+        - "C:\\ninja"
+        - "C:\\Program Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\MongoDBCompass\\MongoDBCompass.exe"
+        - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\bin"
+        - "C:\\Users\\LENOVO\\.dotnet\\tools"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\GitHubDesktop\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Roaming\\npm"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg"
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:1303 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineASMCompiler.cmake:170 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Checking whether the ASM compiler is GNU using "--version" did not match "(GNU assembler)|(GCC)|(Free Software Foundation)":
+      x64 için Microsoft (R) C/C++ İyileştirmeli Derleyicisi Sürüm 19.40.33813
+      Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
+      
+      cl: Komut satırı warning D9002: Bilinmeyen '--version' seçeneği yoksayılıyor
+      cl: Komut satırı error D8003: eksik kaynak dosya adı
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:1303 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineASMCompiler.cmake:170 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Checking whether the ASM compiler is AppleClang using "--version" did not match "(Apple (clang|LLVM) version)":
+      x64 için Microsoft (R) C/C++ İyileştirmeli Derleyicisi Sürüm 19.40.33813
+      Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
+      
+      cl: Komut satırı warning D9002: Bilinmeyen '--version' seçeneği yoksayılıyor
+      cl: Komut satırı error D8003: eksik kaynak dosya adı
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:1303 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineASMCompiler.cmake:170 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Checking whether the ASM compiler is Clang using "--version" did not match "(clang version)":
+      x64 için Microsoft (R) C/C++ İyileştirmeli Derleyicisi Sürüm 19.40.33813
+      Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
+      
+      cl: Komut satırı warning D9002: Bilinmeyen '--version' seçeneği yoksayılıyor
+      cl: Komut satırı error D8003: eksik kaynak dosya adı
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:1303 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineASMCompiler.cmake:170 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Checking whether the ASM compiler is ARMClang using "--version" did not match "armclang":
+      x64 için Microsoft (R) C/C++ İyileştirmeli Derleyicisi Sürüm 19.40.33813
+      Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
+      
+      cl: Komut satırı warning D9002: Bilinmeyen '--version' seçeneği yoksayılıyor
+      cl: Komut satırı error D8003: eksik kaynak dosya adı
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:1303 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineASMCompiler.cmake:170 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Checking whether the ASM compiler is OrangeC using "--version" did not match "occ \\(OrangeC\\) Version":
+      x64 için Microsoft (R) C/C++ İyileştirmeli Derleyicisi Sürüm 19.40.33813
+      Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
+      
+      cl: Komut satırı warning D9002: Bilinmeyen '--version' seçeneği yoksayılıyor
+      cl: Komut satırı error D8003: eksik kaynak dosya adı
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:1303 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineASMCompiler.cmake:170 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Checking whether the ASM compiler is HP using "-V" did not match "HP C":
+      x64 için Microsoft (R) C/C++ İyileştirmeli Derleyicisi Sürüm 19.40.33813
+      Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
+      
+      cl: Komut satırı error D8004: '/V' bağımsız değişken gerektiriyor
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:1303 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineASMCompiler.cmake:170 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Checking whether the ASM compiler is Intel using "--version" did not match "(ICC)":
+      x64 için Microsoft (R) C/C++ İyileştirmeli Derleyicisi Sürüm 19.40.33813
+      Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
+      
+      cl: Komut satırı warning D9002: Bilinmeyen '--version' seçeneği yoksayılıyor
+      cl: Komut satırı error D8003: eksik kaynak dosya adı
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:1303 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineASMCompiler.cmake:170 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Checking whether the ASM compiler is IntelLLVM using "--version" did not match "(Intel[^
+      ]+oneAPI)":
+      x64 için Microsoft (R) C/C++ İyileştirmeli Derleyicisi Sürüm 19.40.33813
+      Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
+      
+      cl: Komut satırı warning D9002: Bilinmeyen '--version' seçeneği yoksayılıyor
+      cl: Komut satırı error D8003: eksik kaynak dosya adı
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:1303 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineASMCompiler.cmake:170 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Checking whether the ASM compiler is SunPro using "-V" did not match "Sun C":
+      x64 için Microsoft (R) C/C++ İyileştirmeli Derleyicisi Sürüm 19.40.33813
+      Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
+      
+      cl: Komut satırı error D8004: '/V' bağımsız değişken gerektiriyor
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:1303 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineASMCompiler.cmake:170 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Checking whether the ASM compiler is XL using "-qversion" did not match "XL C":
+      x64 için Microsoft (R) C/C++ İyileştirmeli Derleyicisi Sürüm 19.40.33813
+      Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
+      
+      cl: Komut satırı warning D9002: Bilinmeyen '-qversion' seçeneği yoksayılıyor
+      cl: Komut satırı error D8003: eksik kaynak dosya adı
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:1290 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineASMCompiler.cmake:170 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Checking whether the ASM compiler is MSVC using "-?" matched "Microsoft":
+      x64 için Microsoft (R) C/C++ İyileştirmeli Derleyicisi Sürüm 19.40.33813
+      Telif Hakkı (C) Microsoft Corporation. Tüm hakları saklıdır.
+      
+                               C/C++ DERLEYİCİ SEÇENEKLERİ
+      
+      
+                                    -İYİLEŞTİRME-
+      
+      /O1 en fazla iyileştirme (alana öncelik ver)
+      /O2 en fazla iyileştirme (hıza öncelik ver)
+      /Ob<n> satır içi genişleme (varsayılan n=0)
+      /Od iyileştirmeleri devre dışı bırak (varsayılan)
+      /Og genel iyileştirmeyi etkinleştir     /Oi[-] iç işlevleri etkinleştir
+      /Os kod alanına ayrıcalık tanı          /Ot kod hızına ayrıcalık tanı
+      /Ox iyileştirme (hıza öncelik ver)      
+      /favor:<blend|AMD64|INTEL64|ATOM> iyileştirmek için aşağıdakilerden bir işlemci seçin:
+          blend - birkaç farklı x64 işlemcisi için iyileştirmelerin bir birleşimi
+          AMD64 - 64 bit AMD işlemciler
+          INTEL64 - Intel(R)64 mimari işlemcileri
+          ATOM - Intel(R) Atom(TM) işlemcileri
+      
+                                   -KOD OLUŞTURMA-
+      
+      /Gu[-] ayrı işlevlerin ayrı adreslere sahip olmasını sağlayın
+      /Gw[-] bağlayıcı için genel değişkenleri ayırır
+      /GF salt okunur dize havuzunu etkinleştir
+      /Gy[-] bağlayıcı için ayrı işlevler     
+      /GS[-] güvenlik denetimlerini etkinleştir
+      /GR[-] C++ RTTI öğesini etkinleştir     
+      /guard:cf[-] CFG'yi (denetim akışı koruması) etkinleştir
+      /guard:ehcont[-], EH devamlılık meta verilerini (CET) etkinleştirir
+      /EHs C++ EH (SEH özel durumu yok) öğesini etkinleştir
+      /EHa C++ EH (SEH özel durumlarıyla) öğesini etkinleştir
+      /EHc dış "C", varsayılan olarak nothrow şeklindedir
+      /EHr her zaman noexcept çalışma zamanı sonlandırma denetimleri oluştur
+      /fp:<contract|except[-]|fast|precise|strict> kayan nokta modeli seçin:
+          sözleşme - kod oluştururken kayan nokta kısaltmalarını deneyin
+          except[-] - kod oluştururken kayan nokta özel durumlarını kullanmayı düşünün
+          fast - "fast" kayan nokta modeli; sonuçlar daha az tahmin edilebilirdir
+          precise - "precise" kayan nokta modeli; sonuçlar tahmin edilebilirdir
+          strict - "strict" kayan nokta modeli (/fp:except gerektirir)
+      /Qfast_transcendentals, /fp:except ile bile satır içi FP iç bilgileri oluşturur
+      /Qspectre[-] CVE 2017-5753 için azaltıcı etkenleri etkinleştir
+      /Qpar[-] paralel kod oluşturmayı etkinleştir
+      /Qpar-report:1 otomatik paralel hale getirici tanılaması; paralel hale getirilmiş döngüleri belirtir
+      /Qpar-report:2 otomatik paralel hale getirici tanılaması; paralel hale getirilmemiş döngüleri belirtir
+      /Qvec-report:1 otomatik vektör haline getirici tanılaması; vektör haline getirilmiş döngüleri belirtir
+      /Qvec-report:2 otomatik vektör haline getirici tanılaması; vektör haline getirilmemiş döngüleri belirtir
+      /GL[-] bağlantı zamanı kod oluşturmayı etkinleştir
+      /volatile:<iso|ms> geçici modeli seçin:
+          iso - Alma/bırakma semantiği geçici erişimlerde garanti edilmez
+          ms  - Alma/bırakma semantiği geçici erişimlerde garanti edilir
+      /GA Windows Uygulaması için iyileştir   
+      /Ge tüm işlevler için yığın denetimini zorla
+      /Gs[num] yığın denetim çağrılarını denetle
+      /Gh _penter işlev çağrısını etkinleştir /GH _pexit işlev çağrısını etkinleştir
+      /GT fiber uyumlu TLS erişimleri oluştur 
+      /RTC1 Hızlı denetimleri etkinleştir (/RTCsu)
+      /RTCc Daha küçük tür denetimlerine dönüştür
+      /RTCs Yığın Çerçevesi çalışma zamanı denetimi
+      /RTCu Başlatılmamış yerel kullanım denetimleri
+      /clr[:option] compile for common language runtime, where option is:
+          pure : produce IL-only output file (no native executable code)
+          safe : produce IL-only verifiable output file
+          netcore : produce assemblies targeting .NET Core runtime
+          noAssembly : do not produce an assembly
+          nostdlib : ignore the system .NET framework directory when searching for assemblies
+          nostdimport : do not import any required assemblies implicitly
+          initialAppDomain : enable initial AppDomain behavior of Visual C++ 2002
+          implicitKeepAlive- : turn off implicit emission of System::GC::KeepAlive(this)
+          char_t- : turn off metadata support for char8_t, char16_t and char32_t
+      /fsanitize=address Adres temizleme kodu oluşturmayı etkinleştir
+      /homeparams Kayıtlarda geçirilen parametreleri yığına yazılmaya zorla
+      /GZ Yığın denetimlerini etkinleştir (/RTCs)
+      /Gv __vectorcall çağırma kuralı         
+      /arch:<SSE2|SSE4.2|AVX|AVX2|AVX512> minimum CPU mimarisi gereksinimleri, şunlardan biri:
+         SSE2 - (varsayılan) SSE2 etkinleştirilmiş CPU'larla kullanılabilen yönergelerin kullanımını etkinleştir
+         SSE4.2 - SSE 4.2 etkinleştirilmiş CPU'larla kullanılabilen yönergelerin kullanımını etkinleştir
+         AVX - AVX etkinleştirilmiş CPU'larla kullanılabilen yönergelerin kullanımını etkinleştir
+         AVX2 - AVX2 etkinleştirilmiş CPU'larla kullanılabilen yönergelerin kullanımını etkinleştir
+         AVX512 - AVX-512 etkinleştirilmiş CPU'larla kullanılabilen yönergelerin kullanımını etkinleştir
+      /QIntel-jcc-erratum Intel JCC erratum için risk azaltmalarını etkinleştir
+      /Qspectre-load Bellek yükleyen tüm yönergeler için Spectre azaltmalarını etkinleştir
+      /Qspectre-load-cf Bellek yükleyen tüm denetim akışı yönergeleri için Spectre azaltmalarını etkinleştir
+      /Qspectre-jmp[-] Koşulsuz atlama yönergeleri için Spectre risk azaltmalarını etkinleştir
+      /fpcvt:<IA|BC> FP'den işaretsiz tamsayıya dönüştürme uyumluluğu
+         IA - sonuçlar VCVTTSD2USI yönergesi ile uyumludur
+         BC - sonuçlar VS2017 ve önceki derleyici ile uyumludur
+      /jumptablerdata .rdata bölümünde switch case deyimleri için atlama tabloları yerleştir
+      
+                                    -ÇIKIŞ DOSYALARI-
+      
+      /Fa[file] bütünleştirilmiş kod liste dosyasını adlandır
+      /FA[scu] derleme listesini yapılandır   /Fd[file] .PDB dosyasını adlandır
+      /Fe<file> yürütülebilir dosyayı adlandır/Fm[file] eşleme dosyası adlandır
+      /Fo<file> nesne dosyasını adlandır      
+      /Fp<file> önceden derlenmiş üstbilgi dosyası adlandır
+      /Fr[file] kaynak tarayıcı dosyasını adlandır
+      /FR[file] uzatılmış .SBR dosyasını adlandır
+      /Fi[file] önceden işlenmiş dosyayı adlandır
+      /Fd: <file> .PDB dosyasını adlandır     
+      /Fe: <file> yürütülebilir dosyayı adlandır
+      /Fm: <file> eşleme dosyasını adlandır   /Fo: <file> nesne dosyasını adlandır
+      /Fp: <file> .PCH dosyasını adlandır     
+      /FR: <file> uzatılmış .SBR dosyasını adlandır
+      /Fi: <file> önceden işlenmiş dosyayı adlandır
+      /Ft<dizin> #import için oluşturulan üst bilgi dosyalarının konumu
+      /doc[file] XML belge açıklamalarını işle ve isteğe bağlı olarak .xdc dosyasını adlandır
+      
+                                    -ÖNİŞLEMCİ-
+      
+      /AI<dir> derleme arama yoluna ekle      
+      /FU<file> .NET bütünleştirilmiş kodunu/modülünü içeri aktar
+      /FU:asFriend<file> .NET derlemesini/modülünü arkadaş olarak içe aktar
+      /C açıklamaları sökme                   /D<name>{=|#}<text> makroyu tanımla
+      /E stdout için önceden işlenir          
+      /EP stdout için önceden işlenir, #line olmaz
+      /P dosya için önceden işlenir           /Fx eklenen kodu dosyayla birleştir
+      /FI<file> zorlanmış içerilen dosyayı adlandır
+      /U<name> önceden tanımlanmış makroyu kaldır
+      /u tüm önceden tanımlanmış makroları kaldır
+      /I<dir> arama yolunu içermek için ekle  /X "standart yerleri" yoksay
+      /PH, ön işleme sırasında #pragma file_hash oluşturuyor
+      /PD tüm makro tanımlarını yazdır        
+      
+                                      -DİL-
+      
+      /std:<c++14|c++17|c++20|c++latest> C++ standart sürüm
+          c++14 - ISO/IEC 14882:2014 (varsayılan)
+          c++17 - ISO/IEC 14882:2017
+          c++20 - ISO/IEC 14882:2020
+          c++latest - en son taslak standardı (özellik kümesi değişebilir)
+      /std:<c11|c17|clatest> C standart sürümü
+          c11 - ISO/IEC 9899:2011
+          c17 - ISO/IEC 9899:2018
+          clatest - en son taslak standardı (özellik kümesi değişikliğe tabidir)
+      /permissive[-] derlemek için bazı uyumsuz kodu etkinleştir
+                     (özellik kümesi değişikliğe tabidir) (C++20 ve sonraki sürümlerde varsayılan olarak kapalı)
+      /Za uzantıları devre dışı bırak (C++için önerilmez)
+      /ZW WinRT dil uzantılarını etkinleştir  /Zs yalnızca sözdizimi denetimi
+      /await seçeneği, sürdürülebilir işlevler uzantısını etkinleştirir
+      /await:strict seçeneği önceki dil sürümleriyle standart C++20 eş yordam desteğini etkinleştirir
+      /constexpr:depth<N>     constexpr değerlendirmesi için özyineleme derinliği sınırı (varsayılan: 512)
+      /constexpr:backtrace<N> tanılamalarda N constexpr değerlendirmesi göster (varsayılan: 10)
+      /constexpr:steps<N>     constexpr değerlendirmesini N adımın ardından iptal et (varsayılan: 1048576)
+      /Zi hata ayıklama bilgilerini etkinleştir
+      /Z7 eski stil hata ayıklama bilgilerini etkinleştir
+      /Zo[-] iyileştirilmiş kod için daha zengin hata ayıklama bilgisi oluştur (varsayılan olarak açık)
+      /ZH:[MD5|SHA1|SHA_256] hata ayıklama bilgilerinde dosya sağlama toplamı hesaplaması için karma algoritması (varsayılan: SHA_256)
+      /Zp[n] n bayt sınırındaki paket yapılar 
+      /Zl .OBJ'deki varsayılan kitaplık adını atla
+      /vd{0|1|2} vtordisp'i devre dışı bırak/etkinleştir
+      /vm<x> üye işaretçileri türü            
+      /Zc:arg1[,arg2] bağımsız değişkenlerin şunlar olabileceği dil uyumluluğu:
+        forScope[-]           kapsam kuralı için Standart C++ zorla
+        wchar_t[-]            wchar_t yerel türdür, typedef değildir
+        auto[-]               otomatik için yeni Standart C++ anlamına zorla
+        trigraphs[-]          üçlü harfleri etkinleştir (varsayılan olarak devre dışı)
+        rvalueCast[-]         standart C++ açık tür dönüşüm kurallarını uygula
+                              (C++20 veya sonraki sürümlerde varsayılan olarak açık, /permissive- tarafından belirtilir
+        strictStrings[-]      string-literal değerini [char|wchar_t]* olarak devre dışı bırak
+                              conversion (C++20 veya sonraki sürümlerde varsayılan olarak açık, /permissive- tarafından belirtilir
+        implicitNoexcept[-]   gerekli işlevlerde örtük noexcept etkinleştir
+        threadSafeInit[-]     güvenli iş parçacıklı yerel statik başlatmayı etkinleştir
+        inline[-]               aşağıdaki şartlar altında, başvurulmayan işlevi veya verileri kaldır
+                              COMDAT veya yalnızca iç bağlantıya sahip (varsayılan olarak kapalı)
+        sizedDealloc[-] C++14 genel boyutlu serbest bırakma özelliğini etkinleştir
+                              işlevler (varsayılan olarak açık)
+        throwingNew[-]        yeni işlecinin hata durumunda açık sonucu vereceğini varsay (varsayılan olarak kapalı)
+        referenceBinding[-] geçici bir sabit olmayana bağlamaz
+                              lvalue başvurusu (C++20 veya sonraki sürümlerde varsayılan olarak açık, /permissive- tarafından belirtilir
+        twoPhase-             iki aşamalı ad aramayı devre dışı bırak
+        ternary[-]            koşullu işleç için C++11 kurallarını uygula
+                              (C++20 veya sonraki sürümlerde varsayılan olarak açık, /permissive- tarafından belirtilir
+        noexceptTypes[-]      C++17 noexcept kurallarını zorla (C++17 ve sonraki sürümlerde varsayılan olarak açıktır)
+        alignedNew[-]         dinamik olarak ayrılan nesnelerde C++17 hizalamasını etkinleştir (varsayılan olarak açık)
+        hiddenFriend[-] Standart C++ gizli arkadaş kurallarını uygula
+                              (C++20 veya sonraki sürümlerde varsayılan olarak açık, /permissive- tarafından belirtilir
+        externC[-]            'Extern "C"' işlevleri için Standart C++ kurallarını uygula
+                              (C++20 veya sonraki sürümlerde varsayılan olarak açık, /permissive- tarafından belirtilir
+        lambda[-]             yeni lambda işlemcisini kullanarak daha iyi bir lambda desteği
+                              (C++20 veya sonraki sürümlerde varsayılan olarak açık, /permissive- tarafından belirtilir
+        tlsGuards[-]          TLS değişken başlatma için çalışma zamanı denetimleri oluştur (varsayılan olarak açık)
+        zeroSizeArrayNew[-]   0 boyutlu nesne dizileri için üye üzerinde new/delete çağrısı (varsayılan olarak açık)
+        static_assert[-] 'static_assert' katı işlemesi (C++20 ve sonraki sürümlerde varsayılan olarak açık,
+                              /permissive- tarafından belirtilir)
+        gotoScope[-]     bir değişkenin başlatılması geçilemiyor (/permissive- tarafından belirtilir)
+        templateScope[-]      Standart C++ şablon parametresi gölgeleme kurallarını zorunlu tut
+        enumTypes[-]          Standart C++ temel sabit listesi türlerini etkinleştir (varsayılan olarak kapalı)
+        checkGwOdr[-]       Standart C++ bir tanım kuralı ihlallerini zorla
+                              /Gw etkinleştirildiğinde (varsayılan olarak kapalı)
+        nrvo[-]               isteğe bağlı kopyalamayı etkinleştir ve çıkarmayı taşı (C++20 ve sonraki sürümlerde varsayılan olarak açık,
+                              /permissive- veya /O2 tarafından belirtilir)
+        __STDC__              C altında __STDC__ öğesini 1 olarak tanımla
+        __cplusplus[-] __cplusplus makro, desteklenen C++ standardını raporlar (varsayılan olarak kapalı)
+        char8_t[-]           C++20 yerel 'u8' sabit değerini 'const char8_t' olarak etkinleştir
+                              (C++20 ve sonraki sürümlerde varsayılan olarak açık)
+        externConstexpr[-]     C++ içindeki constexpr değişkenleri için dış bağlantıyı etkinleştir
+                              (C++20 veya sonraki sürümlerde varsayılan olarak açık, /permissive- tarafından belirtilir
+        önişlemci[-]      C/C++ içinde standart uyumlu ön işlemciyi etkinleştir
+                              (C11 ve sonraki sürümlerde varsayılan olarak açık)
+      /ZI Hata ayıklama bilgilerini Düzenlemeyi ve Devam Etmeyi etkinleştir
+      /openmp OpenMP 2.0 dil uzantılarını etkinleştir
+      /openmp:experimental OpenMP 2.0 dil uzantılarını etkinleştirin ve ayrıca OpenMP 3.0+ dil uzantılarını seçin
+      /openmp:llvm OpenMP dil uzantıları, LLVM çalışma zamanını kullanıyor
+      
+                                    -ÇEŞİTLİ-
+      
+      @<file> seçenekler yanıt dosyası        /?, /help bu yardım iletisini yazdır
+      /bigobj uzatılmış nesne biçimi oluştur  /c yalnızca derle, bağlama
+      /FC tanılamalarda tam yol adları kullan /H<num> en fazla dış ad uzunluğu
+      /J varsayılan karakter türü imzalanmamış
+      /MP[n] derleme için en fazla 'n' işlem kullan
+      /nologo telif hakkı iletisini engelle   
+      /showIncludes dahil olan dosya adlarını göster
+      /Tc<source file> dosyayı .c olarak derle
+      /Tp<source file> dosyayı .cpp olarak derle
+      /TC tüm dosyaları .c olarak derle       /TP tüm dosyaları .cpp olarak derle
+      /V<string> sürüm dizesini ayarla        /Yc[file] .PCH dosyası oluştur
+      /Yd her .OBJ dosyasına hata ayıklama değeri ekle
+      /Yl[sym] hata ayıklama kitaplığı için .PCH başvurusu ekle
+      /Yu[file] .PCH dosyası kullan           
+      /Y- tüm PCH seçeneklerini devre dışı bırak
+      /Zm<n> ayrılan en fazla bellek (varsayılan %)
+      /FS MSPDBSRV.EXE kullanmayı zorla       
+      /source-charset:<iana-adı>|.nnnn kaynak karakter kümesini ayarla
+      /execution-charset:<iana-adı>|.nnnn yürütme karakter kümesini ayarla
+      /utf-8 kaynak ve yürütme karakter kümesini UTF-8 olarak ayarla
+      /validate-charset[-] UTF-8 dosyalarını yalnızca geçerli karakterler için doğrula
+      /fastfail[-] fast-fail modunu etkinleştir
+      /JMC[-] yerel yalnızca kendi kodumu etkinleştir
+      /presetPadding[-] yığın tabanlı sınıf türleri için sıfır başlatma doldurması
+      /volatileMetadata[-], geçici bellek erişimlerinde meta veriler oluştur
+      kaynak bağlantısı bilgilerini içeren /sourcelink [file] dosyası
+      
+                                      -BAĞLANIYOR-
+      
+      /LD .DLL oluştur                        
+      /LDd .DLL hata ayıklama kitaplığı oluştur
+      /LN .netmodule oluştur                  /F<num> yığın boyutunu ayarla
+      /link [bağlayıcı seçenekleri ve kitaplıkları]
+      /MD MSVCRT.LIB ile bağla                /MT LIBCMT.LIB ile bağla
+      /MDd MSVCRTD.LIB hata ayıklama kitaplığıyla bağla
+      /MTd LIBCMTD.LIB hata ayıklama kitaplığıyla bağla
+      
+                                    -CODE ANALYSIS-
+      
+      /analyze[-] Yerli çözümlemeyi etkinleştir
+      /analyze:quiet[-] Konsola uyarı verme   /analyze:log<name> Uyarılar dosyaya
+      /analyze:autolog günlük dosyası *.pftlog
+      /analyze:autolog:ext<ext> *.<ext> dosyasına günlük tut
+      /analyze:autolog- Günlük dosyası yok    /analyze:WX- Uyarılar önemli değil
+      /analyze:stacksize<num> En fazla yığın karesi
+      /analyze:max_paths<num> En fazla yol    /analyze:only Çözümle, kod üretimi yok
+      
+                                    -TANILAMA-
+      
+      /diagnostics:<bağımsız_değişkenler,...> tanılama iletilerinin biçimini denetler:
+                   classic - önceki biçimi korur
+                   column[-] - sütun bilgilerini yazdırır
+                   caret[-]  - sütunu ve kaynağın belirtilen satırını yazdırır
+      /Wall tüm uyarıları etkinleştir         /w   tüm uyarıları devre dışı bırak
+      /W<n> uyarı düzeyini ayarla (varsayılan n=1)
+      /Wv:xx[.yy[.zzzzz]] xx.yy.zzzzz sürümünden sonra oluşan uyarıları devre dışı bırak
+      /WX uyarıları hata olarak değerlendir   /WL tek satır tanılamayı etkinleştir
+      /wd<n> n uyarısını devre dışı bırak     
+      /we<n> n uyarısını hata olarak değerlendir
+      /wo<n> n uyarısını bir kez ver          
+      /w<l><n> n için 1-4 uyarı düzeyini ayarla
+      /external:I <yol>      - dış üst bilgilerin konumu
+      /external:env:<değişken>     - dış üst bilgilerin konumlarını içeren ortam değişkeni
+      /external:anglebrackets - <> ile eklenen tüm üst bilgileri dış olarak işle
+      /external:W<n>          - dış üst bilgiler için uyarı düzeyi
+      /external:templates[-]  - şablon örneği oluşturma zincirindeki uyarı düzeyini değerlendir
+      /sdl ek güvenlik özelliklerini ve uyarılarını etkinleştir
+      /options:strict tanınmayan derleme seçenekleri birer hatadır
+      
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:37 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:65 (__resolve_tool_path)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:104 (__resolve_linker_path)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineASMCompiler.cmake:267 (include)"
+      - "CMakeLists.txt:122 (project)"
+    mode: "program"
+    variable: "_CMAKE_TOOL_WITH_PATH"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "lld-link"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/"
+      - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/"
+      - "C:/ninja/"
+      - "C:/Program Files/Microsoft/jdk-11.0.16.101-hotspot/bin/"
+      - "C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Users/LENOVO/AppData/Local/MongoDBCompass/MongoDBCompass.exe/"
+      - "C:/Program Files/MongoDB/Server/8.0/bin/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/Docker/Docker/resources/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin/"
+      - "C:/Users/LENOVO/.dotnet/tools/"
+      - "C:/Users/LENOVO/AppData/Local/GitHubDesktop/bin/"
+      - "C:/Users/LENOVO/AppData/Roaming/npm/"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/lld-link"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lld-link.com"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lld-link.exe"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/lld-link"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/lld-link.com"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/lld-link.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/lld-link"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/lld-link.com"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/lld-link.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/lld-link"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lld-link.com"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lld-link.exe"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/lld-link"
+      - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/lld-link.com"
+      - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/lld-link.exe"
+      - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/lld-link"
+      - "C:/ninja/lld-link.com"
+      - "C:/ninja/lld-link.exe"
+      - "C:/ninja/lld-link"
+      - "C:/Program Files/Microsoft/jdk-11.0.16.101-hotspot/bin/lld-link.com"
+      - "C:/Program Files/Microsoft/jdk-11.0.16.101-hotspot/bin/lld-link.exe"
+      - "C:/Program Files/Microsoft/jdk-11.0.16.101-hotspot/bin/lld-link"
+      - "C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler/lld-link.com"
+      - "C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler/lld-link.exe"
+      - "C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler/lld-link"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/lld-link.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/lld-link.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/lld-link"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/lld-link.com"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/lld-link.exe"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/lld-link"
+      - "C:/Windows/System32/lld-link.com"
+      - "C:/Windows/System32/lld-link.exe"
+      - "C:/Windows/System32/lld-link"
+      - "C:/Windows/lld-link.com"
+      - "C:/Windows/lld-link.exe"
+      - "C:/Windows/lld-link"
+      - "C:/Windows/System32/wbem/lld-link.com"
+      - "C:/Windows/System32/wbem/lld-link.exe"
+      - "C:/Windows/System32/wbem/lld-link"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link"
+      - "C:/Windows/System32/OpenSSH/lld-link.com"
+      - "C:/Windows/System32/OpenSSH/lld-link.exe"
+      - "C:/Windows/System32/OpenSSH/lld-link"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lld-link.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lld-link.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lld-link"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/lld-link.com"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/lld-link.exe"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/lld-link"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lld-link.com"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lld-link.exe"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lld-link"
+      - "C:/Program Files/dotnet/lld-link.com"
+      - "C:/Program Files/dotnet/lld-link.exe"
+      - "C:/Program Files/dotnet/lld-link"
+      - "C:/Program Files/nodejs/lld-link.com"
+      - "C:/Program Files/nodejs/lld-link.exe"
+      - "C:/Program Files/nodejs/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/MongoDBCompass/MongoDBCompass.exe/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/MongoDBCompass/MongoDBCompass.exe/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/MongoDBCompass/MongoDBCompass.exe/lld-link"
+      - "C:/Program Files/MongoDB/Server/8.0/bin/lld-link.com"
+      - "C:/Program Files/MongoDB/Server/8.0/bin/lld-link.exe"
+      - "C:/Program Files/MongoDB/Server/8.0/bin/lld-link"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/lld-link.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/lld-link.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/lld-link"
+      - "C:/Program Files/Docker/Docker/resources/bin/lld-link.com"
+      - "C:/Program Files/Docker/Docker/resources/bin/lld-link.exe"
+      - "C:/Program Files/Docker/Docker/resources/bin/lld-link"
+      - "C:/Program Files/Git/cmd/lld-link.com"
+      - "C:/Program Files/Git/cmd/lld-link.exe"
+      - "C:/Program Files/Git/cmd/lld-link"
+      - "C:/Program Files/CMake/bin/lld-link.com"
+      - "C:/Program Files/CMake/bin/lld-link.exe"
+      - "C:/Program Files/CMake/bin/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Launcher/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Launcher/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Launcher/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/Scripts/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/Scripts/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/Scripts/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WindowsApps/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WindowsApps/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WindowsApps/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Microsoft VS Code/bin/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Microsoft VS Code/bin/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Microsoft VS Code/bin/lld-link"
+      - "C:/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin/lld-link.com"
+      - "C:/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin/lld-link.exe"
+      - "C:/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin/lld-link"
+      - "C:/Users/LENOVO/.dotnet/tools/lld-link.com"
+      - "C:/Users/LENOVO/.dotnet/tools/lld-link.exe"
+      - "C:/Users/LENOVO/.dotnet/tools/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/GitHubDesktop/bin/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/GitHubDesktop/bin/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/GitHubDesktop/bin/lld-link"
+      - "C:/Users/LENOVO/AppData/Roaming/npm/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Roaming/npm/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Roaming/npm/lld-link"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe/lld-link.com"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe/lld-link.exe"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/lld-link"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/lld-link"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.22621.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\"
+        - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin"
+        - "C:\\ninja"
+        - "C:\\Program Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\MongoDBCompass\\MongoDBCompass.exe"
+        - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\bin"
+        - "C:\\Users\\LENOVO\\.dotnet\\tools"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\GitHubDesktop\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Roaming\\npm"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineRCCompiler.cmake:40 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-MSVC.cmake:574 (enable_language)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-MSVC.cmake:547 (__windows_compiler_msvc_enable_rc)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-MSVC-C.cmake:5 (__windows_compiler_msvc)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCInformation.cmake:48 (include)"
+      - "CMakeLists.txt:122 (project)"
+    mode: "program"
+    variable: "CMAKE_RC_COMPILER"
+    description: "RC compiler"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "rc"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/x64/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/"
+      - "C:/Windows/Microsoft.NET/Framework64/v4.0.30319/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/Tools/"
+      - "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/"
+      - "C:/ninja/"
+      - "C:/Program Files/Microsoft/jdk-11.0.16.101-hotspot/bin/"
+      - "C:/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Users/LENOVO/AppData/Local/MongoDBCompass/MongoDBCompass.exe/"
+      - "C:/Program Files/MongoDB/Server/8.0/bin/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR/"
+      - "C:/Program Files/Docker/Docker/resources/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/LENOVO/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Program Files/JetBrains/IntelliJ IDEA 2024.1.1/bin/"
+      - "C:/Users/LENOVO/.dotnet/tools/"
+      - "C:/Users/LENOVO/AppData/Local/GitHubDesktop/bin/"
+      - "C:/Users/LENOVO/AppData/Roaming/npm/"
+      - "C:/Users/LENOVO/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/"
+      - "C:/Program Files/bin/"
+      - "C:/Program Files/sbin/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/bin/"
+      - "C:/Program Files (x86)/sbin/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/CMake/sbin/"
+      - "C:/Program Files/CMake/"
+      - "C:/Program Files (x86)/enc_bootloader/bin/"
+      - "C:/Program Files (x86)/enc_bootloader/sbin/"
+      - "C:/Program Files (x86)/enc_bootloader/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/rc.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/rc.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/rc"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/rc.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/rc.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/VC/vcpackages/rc"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/rc.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/rc.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TestWindow/rc"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/rc.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/rc.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/TeamFoundation/Team Explorer/rc"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/rc.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/rc.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/rc"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/rc.com"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/rc.exe"
+      - "C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/x64/rc"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/rc.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/rc.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/FSharp/Tools/rc"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/rc.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/rc.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Team Tools/DiagnosticsHub/Collector/rc"
+      - "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/rc.com"
+    found: "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/rc.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn"
+        - "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\Tools"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.22621.0\\\\x64"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64"
+        - "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\"
+        - "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin"
+        - "C:\\ninja"
+        - "C:\\Program Files\\Microsoft\\jdk-11.0.16.101-hotspot\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\Intel\\Shared Libraries\\redist\\intel64\\compiler"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\MongoDBCompass\\MongoDBCompass.exe"
+        - "C:\\Program Files\\MongoDB\\Server\\8.0\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR"
+        - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.1\\bin"
+        - "C:\\Users\\LENOVO\\.dotnet\\tools"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\GitHubDesktop\\bin"
+        - "C:\\Users\\LENOVO\\AppData\\Roaming\\npm"
+        - "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\Ninja"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\Linux\\bin\\ConnectionManagerExe"
+        - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/enc_bootloader"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/enc_bootloader"
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:83 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:122 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/pico/build-playground/_deps/picotool-build/enc_bootloader/CMakeFiles/CMakeScratch/TryCompile-qslrbm"
+      binary: "C:/pico/build-playground/_deps/picotool-build/enc_bootloader/CMakeFiles/CMakeScratch/TryCompile-qslrbm"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/pico/build-playground/_deps/picotool-build/enc_bootloader/CMakeFiles/CMakeScratch/TryCompile-qslrbm'
+        
+        Run Build Command(s): C:/ninja/ninja.exe -v cmTC_78528
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_78528.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_78528.dir\\ /FS -c "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1940 --intdir=CMakeFiles\\cmTC_78528.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_78528.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_78528.exe /implib:cmTC_78528.lib /pdb:cmTC_78528.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:253 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'C': C:/PROGRA~1/MICROS~4/2022/COMMUN~1/VC/Tools/MSVC/1440~1.338/bin/Hostx64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeDetermineLinkerId.cmake:36 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:299 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Running the C compiler's linker: "C:/PROGRA~1/MICROS~4/2022/COMMUN~1/VC/Tools/MSVC/1440~1.338/bin/Hostx64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.40.33813.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:83 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:122 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/pico/build-playground/_deps/picotool-build/enc_bootloader/CMakeFiles/CMakeScratch/TryCompile-1g9x2o"
+      binary: "C:/pico/build-playground/_deps/picotool-build/enc_bootloader/CMakeFiles/CMakeScratch/TryCompile-1g9x2o"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/pico/build-playground/_deps/picotool-build/enc_bootloader/CMakeFiles/CMakeScratch/TryCompile-1g9x2o'
+        
+        Run Build Command(s): C:/ninja/ninja.exe -v cmTC_24700
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_24700.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_24700.dir\\ /FS -c "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\CMake\\bin\\cmake.exe" -E vs_link_exe --msvc-ver=1940 --intdir=CMakeFiles\\cmTC_24700.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_24700.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_24700.exe /implib:cmTC_24700.lib /pdb:cmTC_24700.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:253 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'CXX': C:/PROGRA~1/MICROS~4/2022/COMMUN~1/VC/Tools/MSVC/1440~1.338/bin/Hostx64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeDetermineLinkerId.cmake:36 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:299 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:122 (project)"
+    message: |
+      Running the CXX compiler's linker: "C:/PROGRA~1/MICROS~4/2022/COMMUN~1/VC/Tools/MSVC/1440~1.338/bin/Hostx64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.40.33813.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+...

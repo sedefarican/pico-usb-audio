@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-sdk/src/rp2350/boot_stage2",
+		"source" : "C:/pico/pico-sdk/src/rp2350/boot_stage2"
+	}
+}

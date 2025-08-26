@@ -1,0 +1,5 @@
+C:/pico/build-playground/pioasm-install/pioasm/pioasm.exe
+C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets.cmake
+C:/pico/build-playground/pioasm-install/pioasm/pioasmTargets-release.cmake
+C:/pico/build-playground/pioasm-install/pioasm/pioasmConfig.cmake
+C:/pico/build-playground/pioasm-install/pioasm/pioasmConfigVersion.cmake

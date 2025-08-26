@@ -1,0 +1,1 @@
+cmd='C:/Program Files/CMake/bin/cmake.exe;--no-warn-unused-cli;-DCMAKE_MAKE_PROGRAM:FILEPATH=C:/ninja/ninja.exe;-DPIOASM_FLAT_INSTALL=1;-DCMAKE_INSTALL_PREFIX=C:/pico/build-playground/pioasm-install;-DCMAKE_RULE_MESSAGES=OFF;-DCMAKE_INSTALL_MESSAGE=NEVER;-GNinja;-C<TMP_DIR>/pioasmBuild-cache-$<CONFIG>.cmake;-S;<SOURCE_DIR><SOURCE_SUBDIR>;-B;<BINARY_DIR>'

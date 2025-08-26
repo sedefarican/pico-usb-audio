@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/pico/build-playground/_deps/picotool-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

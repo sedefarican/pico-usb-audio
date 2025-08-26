@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+C:/pico/build-playground/audio/sine_wave/CMakeFiles/picotoolBuild
+C:/pico/build-playground/audio/sine_wave/CMakeFiles/picotoolBuild.rule
+C:/pico/build-playground/audio/sine_wave/CMakeFiles/picotoolBuild-complete.rule
+C:/pico/build-playground/audio/sine_wave/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+C:/pico/build-playground/audio/sine_wave/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+C:/pico/build-playground/audio/sine_wave/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+C:/pico/build-playground/audio/sine_wave/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+C:/pico/build-playground/audio/sine_wave/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+C:/pico/build-playground/audio/sine_wave/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+C:/pico/build-playground/audio/sine_wave/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+C:/pico/build-playground/audio/sine_wave/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule
